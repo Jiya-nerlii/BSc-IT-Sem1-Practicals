@@ -15,3 +15,8 @@ int main() {
 
     return 0;
 }
+/*
+Sample Output:
+Enter three integers: 10 25 15 
+Greatest number is: 25
+*/
