@@ -21,3 +21,11 @@ int main() {
 
     return 0;
 }
+/*
+Sample Output:
+Enter the Principal amount: 10000
+Enter the Rate of Interest (in %): 5
+Enter the Time period (in years): 2
+
+    Simple Interest = 1000.00
+*/
