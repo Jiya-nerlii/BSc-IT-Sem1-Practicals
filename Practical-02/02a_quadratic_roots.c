@@ -33,3 +33,9 @@ int main() {
 
     return 0;
 }
+/*
+Sample Output:
+Enter coefficients a,b and c: 1 -5 6 
+Roots are real and different:
+Root 1= 3.00 and Root 2= 2.00
+*/
