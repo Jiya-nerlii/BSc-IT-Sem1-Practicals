@@ -16,3 +16,8 @@ int main() {
 
     return 0;
 }
+/*
+Sample Output:
+Enter a year: 2024
+2024 is a leap year
+*/
