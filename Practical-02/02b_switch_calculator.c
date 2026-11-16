@@ -33,3 +33,10 @@ int main() {
 
     return 0;
 }
+/*
+Sample Output:
+Enter an operator (+,-,*,/): *
+Enter two numbers: 12 4 
+12.00 * 4.00 = 48.00
+*/
+
